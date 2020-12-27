@@ -4,8 +4,8 @@ Introduce us as Bit members
 
 Announce goals:
 - Provide foundation for how to insert audio and sfx into our game
-- Make scripts communicate with each other
-- Learn animation and state control to practice boolean logic
+    - Make scripts communicate with each other
+    - Learn animation and state control to practice boolean logic
 
 Show off a demo of example UI / inventory system and jumping mechanism
 
